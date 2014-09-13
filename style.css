@@ -37,7 +37,10 @@ ul
 }
 li
 {display: inline;
-margin-right: 5px;
+margin-right: 15px;
+text-decoration: none;
+color: gray;
+font-style: myriad pro;
 }
 
 
@@ -104,6 +107,7 @@ color:white;}
 .ala1 img, .ala2 img, .ala3 img, .ala4 img
 {width: 22%;
 height:400px;
+
 }
 
 
@@ -197,7 +201,7 @@ font-size: 11px;
 color: gray;
 margin-top: 30px;
 margin-right:25px;
-
+font-family: myriad pro;
 float: right;}
 
 body
